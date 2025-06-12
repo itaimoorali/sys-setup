@@ -1,0 +1,15 @@
+cpylua.language-postcss
+dbaeumer.vscode-eslint
+eamodio.gitlens
+esbenp.prettier-vscode
+figma.figma-vscode-extension
+formulahendry.auto-rename-tag
+miguelsolorio.fluent-icons
+ms-vscode.sublime-keybindings
+ritwickdey.liveserver
+sonarsource.sonarlint-vscode
+streetsidesoftware.code-spell-checker
+usernamehw.errorlens
+vue.volar
+wallabyjs.quokka-vscode
+zhuangtongfa.material-theme

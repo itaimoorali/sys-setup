@@ -1,0 +1,175 @@
+{
+  "testing-script": "echo 'Hello, World!'",
+  "workbench.activityBar.orientation": "vertical",
+  "eslint.format.enable": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.inlineSuggest.enabled": true,
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 3,
+  "editor.cursorBlinking": "expand",
+  "eslint.codeActionsOnSave.mode": "all",
+  "eslint.alwaysShowStatus": true,
+  "eslint.validate": ["css", "javascript", "vue"],
+  "eslint.run": "onSave",
+  "eslint.workingDirectories": [{ "mode": "auto" }],
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.fontSize": 12.5,
+  "editor.minimap.maxColumn": 150,
+  "window.nativeTabs": true,
+  "window.openFoldersInNewWindow": "on",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.splitInGroupLayout": "vertical",
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "config.js": "config.*.js",
+    "Dockerfile": "Docker*"
+  },
+  "files.autoSave": "onWindowChange",
+  "diffEditor.maxComputationTime": 0,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "postcss": "css"
+  },
+  "emmet.syntaxProfiles": {
+    "postcss": "css"
+  },
+
+  "vetur.format.defaultFormatterOptions": {
+    "js-beautify-html": {
+      "wrap_attributes": "force-expand-multiline"
+    },
+    "prettyhtml": {
+      "printWidth": 100,
+      "singleQuote": false,
+      "wrapAttributes": false,
+      "sortAttributes": false
+    }
+  },
+  "vetur.useWorkspaceDependencies": true,
+
+  "cSpell.userWords": [
+    "abjad",
+    "aidx",
+    "Arya",
+    "autohide",
+    "Ayat",
+    "ayats",
+    "bismillah",
+    "braintree",
+    "bundlesize",
+    "chiphertext",
+    "ciphertext",
+    "Clustring",
+    "Comlink",
+    "datetime",
+    "disablepictureinpicture",
+    "elegible",
+    "esbenp",
+    "Framelink",
+    "getfeedback",
+    "GLOBALYZER",
+    "Kmean",
+    "macbook",
+    "Makki",
+    "metadatas",
+    "mkpl",
+    "nodownload",
+    "nuxt",
+    "nuxtjs",
+    "octref",
+    "odesk",
+    "omnibar",
+    "omnibarsearchv",
+    "omnisearch",
+    "phystrix",
+    "postcss",
+    "posttest",
+    "predev",
+    "preinstall",
+    "prettyhtml",
+    "psmetrics",
+    "pyenv",
+    "rushstack",
+    "Sahih",
+    "scriptjs",
+    "statsig",
+    "sublocation",
+    "surahs",
+    "taimoorali",
+    "Translit",
+    "Upwork",
+    "Usabilla",
+    "usnuxt",
+    "UUIDV",
+    "vetur",
+    "vuejs",
+    "vuelidate",
+    "Vuetify",
+    "vuex"
+  ],
+  "editor.minimap.enabled": true,
+  "editor.linkedEditing": true,
+  "auto-close-tag.activationOnLanguage": [
+    "xml",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "plaintext",
+    "markdown",
+    "vue",
+    "liquid",
+    "erb",
+    "lang-cfml",
+    "cfml",
+    "HTML (EEx)",
+    "HTML (Eex)",
+    "plist"
+  ],
+  "explorer.autoReveal": "focusNoScroll",
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.startupEditor": "none",
+  "terminal.integrated.bellDuration": 100000000,
+  "terminal.integrated.scrollback": 9999999,
+  "terminal.integrated.persistentSessionScrollback": 10,
+  "search.exclude": {
+    "**/node_modules": false
+  },
+  "vue.codeActions.savingTimeLimit": 999999999,
+  "terminal.integrated.defaultProfile.osx": "bash",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "sonarlint.rules": {
+    "javascript:S3776": {
+      "level": "off"
+    },
+    "javascript:S4138": {
+      "level": "off"
+    }
+  },
+  "vue.codeActions.enabled": false,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#ffffff",
+    "editor.selectionHighlightBackground": "#ffffff"
+  },
+  "files.exclude": {
+    "**/static-guided-facets.json": true
+  },
+  "files.associations": {
+    "*.vue": "vue"
+  },
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "veracode-scan.SCA Vulnerability.sevFilters": [],
+  "veracode-scan.SCA Vulnerability.usageFilters": [],
+  "amazonQ.workspaceIndex": true,
+  "veracode-scan.SCA Features.policy": false,
+  "cursor.composer.shouldAutoScrollToBottom": false
+}
